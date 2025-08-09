@@ -1,0 +1,918 @@
+Summaries from output_chunk_1.txt:
+
+Article 1:
+Harry Potter star Daniel Radcliffe, turning 18, gains access to his £20 million fortune but insists he will not spend it on cars and parties, preferring books and CDs. He is determined to avoid the "kid star goes off the rails" stereotype while his latest film, "Harry Potter and the Order of the Phoenix," breaks records.
+
+Article 2:
+A CNN report from a pretrial detention facility in Miami, Florida, describes the "forgotten floor," where mentally ill inmates are held, often for minor, avoidable felonies. An advocate for the mentally ill, Judge Steve Leifman, tours the facility, highlighting the lack of proper care for these inmates who are often paranoid and delusional, and are kept in basic conditions to prevent self-harm.
+
+Article 3:
+Survivors of the I-35W bridge collapse in Minneapolis, Minnesota, recount their harrowing experiences of the bridge giving way and the heroic efforts of ordinary citizens to rescue children from a school bus. An emergency room physician rushed to the scene to treat the injured, and despite the chaos, the rescue effort was described as controlled and organized.
+
+Article 4:
+President Bush underwent a routine colonoscopy, during which five small, non-worrisome polyps were removed. Vice President Cheney assumed presidential power for about two hours while the President was under anesthesia. The President was in good humor afterward and resumed his activities at Camp David.
+
+Article 5:
+NFL quarterback Michael Vick has been indefinitely suspended without pay by the league following his admission of involvement in a dogfighting ring. The NFL commissioner called his conduct "cruel and reprehensible." Vick pleaded guilty to federal charges and faces up to five years in prison.
+
+Article 6:
+A 5-year-old Iraqi boy, Saleh, who was severely burned in an attack, has received an outpouring of support after his story was aired on CNN. A nonprofit organization will fly him and his family to the United States for treatment. His parents expressed their gratitude for the kindness shown to their son.
+
+Article 7:
+In war-torn Iraq, some women have turned to prostitution to support their families, earning as little as $8 a day. They express their shame and fear, but also their determination to provide for their children in a desperate situation where they feel they have no other choice.
+
+Article succeeded.
+Article 8:
+A key FARC rebel commander in Colombia, known as "El Negro Acacio," was killed in an air attack. He was a fugitive from a U.S. drug trafficking indictment and was a high-ranking member of the FARC, managing their cocaine trafficking network.
+
+Article 9:
+White House press secretary Tony Snow is stepping down from his post due to financial reasons after taking a significant pay cut to work in the administration. President Bush praised Snow's work and his battle with cancer.
+
+Article 10:
+An empty rocket launcher tube was found on the front lawn of a home in Middletown, New Jersey. The FBI and local police are investigating the origin of the device, which is considered non-operational and not a public safety hazard.
+
+Article 11:
+President Bush, in a speech to veterans, will draw parallels between the war in Iraq and the Vietnam War, arguing against a premature withdrawal from Iraq by citing the tragic consequences that followed the U.S. withdrawal from Vietnam.
+
+Article 12:
+A chronology of bomb attacks and attempts in mainland Britain since the 1970s, including the recent discovery of two car bombs in London, the 7/7 London bombings in 2005, and other attacks by various groups.
+
+Article 13:
+Brazilian soccer player Diego has joined German club Werder Bremen for a record fee. The 22-year-old midfielder, who has had a successful career in Brazil and Europe, expressed his excitement about winning titles with his new team.
+
+Article 14:
+Vice President Dick Cheney will briefly serve as acting president while President Bush undergoes a routine colonoscopy. This is a standard procedure, and the President is expected to resume his duties after a few hours.
+
+Article 15:
+A magnitude 4.2 earthquake shook the San Francisco Bay Area, causing minor power outages but no significant damage or injuries. The quake was felt across the region and served as a reminder of the area's seismic activity.
+
+Article 16:
+The search for six miners trapped in a Utah coal mine has been called off after nearly a month of rescue efforts. Officials have stated that there is "no remaining hope" of finding the men alive, and the decision to end the search was made after all known options were exhausted.
+
+Article 17:
+A bomb attack in Batna, Algeria, killed at least 14 people and wounded 60 others in a crowd waiting to see the president. The attack occurred shortly before the president's arrival, and it is unclear if it was a suicide bombing or a planted device.
+
+Article 18:
+Soccer superstar David Beckham is beginning a new chapter of his career with the LA Galaxy. A look at his life and career, from his rise to stardom with Manchester United to his time with Real Madrid and his new life in the United States.
+
+Article 19:
+A virus found in healthy Australian honey bees may be a factor in the collapse of honey bee colonies in the United States. The virus, known as Israeli Acute Paralysis Virus, was found in a high percentage of bees from collapsed colonies, but researchers believe other factors are also at play.
+
+Summaries from output_chunk_10.txt:
+
+Article 1:
+A lawsuit alleges that U.S. Immigration and Customs Enforcement (ICE) forcibly injected detainees with psychotropic drugs during deportation. Former detainees claim they were drugged against their will, and a medical expert who reviewed their cases expressed shock at the practice.
+
+Article 2:
+The mother of a young girl who was sexually assaulted on video says the abuse occurred while the girl was with a babysitter. The mother was unaware of the abuse until she saw the video on television. The suspect, a former animal trainer, is being sought by police.
+
+Article 3:
+Senator Barack Obama criticized Senator Hillary Clinton for her vote to declare Iran's Revolutionary Guard a terrorist group, calling it a "blank check" for the Bush administration to take military action against Iran. Clinton defended her vote, stating it was a non-binding resolution.
+
+Article 4:
+Charges against one of the "Jena Six" teens, Mychal Bell, have been reduced to second-degree aggravated battery. The case has drawn national attention and protests over the handling of the prosecution of six black teens accused of beating a white student.
+
+Article 5:
+Human rights campaigners demonstrated in London, calling on the British government to demand the restoration of democracy in Pakistan. The protest followed the imposition of a state of emergency by Pakistani President Pervez Musharraf.
+
+Article 6:
+Rapper T.I. will remain in custody until a bond hearing after being arrested on gun charges. He was arrested in a federal sting after his bodyguard-turned-informant delivered machine guns and silencers to him.
+
+Article 7:
+Three Chinese nationals have been arrested in what authorities call one of the largest counterfeit luxury handbag operations ever discovered. The scheme involved the trafficking of millions of dollars worth of fake bags from China.
+
+Article 8:
+The director of the National Hurricane Center, Bill Proenza, has left his position after staff members signed a petition calling for his ouster. Proenza had caused controversy with his comments about a key hurricane-forecasting satellite.
+
+Article 9:
+A devastating tropical cyclone in Bangladesh has killed over 1,700 people, with the death toll expected to rise. The storm has left thousands homeless and has caused widespread damage to the country's infrastructure.
+
+Article 10:
+A man has been indicted on federal charges for displaying hangman's nooses from his truck during a civil rights march in Jena, Louisiana. The incident was part of a series of racially charged events in the town.
+
+Article 11:
+The rock band R.E.M. has debuted a new song, "Until the Day Is Done," which will be featured in a CNN documentary about environmental crises. The band has a long history of supporting environmental causes.
+
+Article 12:
+Landowners along the Texas-Mexico border are fighting the U.S. government's plan to build a border fence on their property. They argue that the fence will destroy their heritage and will not be effective in stopping illegal immigration.
+
+Article 13:
+Some Christian congregations are turning to Scientology for help with social programs, despite the controversy surrounding the church. Pastors say they are using Scientology's methods as a tool to augment their faith, not as a replacement for it.
+
+Article 14:
+A car bomb attack in Algeria has killed three people and wounded 23. The attack is the latest in a series of bombings by Islamic extremists in the region.
+
+Article 15:
+Suspended NFL quarterback Michael Vick has been ordered to adhere to tightened restrictions after testing positive for marijuana. He is awaiting sentencing on federal charges related to a dogfighting ring.
+
+Article 16:
+Former Beatles Paul McCartney and Ringo Starr, along with the widows of John Lennon and George Harrison, appeared together to celebrate the anniversary of the Cirque du Soleil show "Love," which features the band's music.
+
+Article 17:
+Three Palestinian refugees, including two sick children, have died while waiting for resettlement from Iraq. The UN refugee agency is appealing for the resettlement of vulnerable and sick refugees who are stranded in camps.
+
+Article 18:
+A search is underway for a French balloonist who disappeared off the coast of Antarctica while on a solo flight. The balloonist is an experienced adventurer who holds the world record for the longest-duration balloon flight.
+
+Article 19:
+A debate between Democratic presidential hopefuls Hillary Clinton and Barack Obama is scheduled for Thursday night in Los Angeles. The debate is the first one-on-one matchup between the two leading candidates.
+
+Article 20:
+A car bomb struck a U.S. embassy vehicle in Lebanon, killing at least three Lebanese civilian bystanders. The attack comes amid a political standoff over the country's presidency.
+
+Summaries from output_chunk_11.txt:
+
+Article 1:
+A list of strange and unfortunate moments in sports fandom, including a baseball player who accidentally revealed a young fan's terminal illness on national television, the tradition of throwing an octopus on the ice at Detroit Red Wings hockey games, and a religious fanatic who became a fixture at major sporting events.
+
+Article 2:
+A mother in Britain is seeking to have her severely disabled daughter's womb removed to prevent her from experiencing the pain of menstruation. The case has sparked a debate about the ethics of enforced sterilization and the rights of disabled people.
+
+Article 3:
+The Chinese government is preparing for a rush of marriages on August 8, 2008, a date considered auspicious in Chinese culture. The number "eight" is associated with wealth and fortune, and many couples are choosing the date for their weddings.
+
+Article 4:
+Turkey has qualified for the Euro 2008 soccer tournament with a victory over Bosnia-Herzegovina. The win also secured a spot for defending champions Greece.
+
+Article 5:
+Coalition troops in Iraq have killed the al-Qaeda leader who masterminded the 2006 bombing of a holy Shiite shrine in Samarra. The attack on the Golden Mosque set off a wave of sectarian violence that has plagued the country.
+
+Article 6:
+The president of Oral Roberts University, Richard Roberts, has stepped down amid a lawsuit filed by former professors who accuse him and his wife of misusing school funds for personal expenses.
+
+Article 7:
+Thousands of people in Lebanon attended the funeral of an anti-Syrian lawmaker who was killed in a car bombing. The assassination is the latest in a series of attacks targeting prominent anti-Syrian figures in the country.
+
+Article 8:
+Police in Italy and other European countries have arrested 20 people suspected of recruiting suicide bombers for terrorist attacks in Iraq and Afghanistan. The suspects are believed to be part of a radical Islamic network.
+
+Article 9:
+A dog fashion show in New York City featured glamorous pooches in couture clothing and accessories. The event is part of the growing pet industry, which is now a $40 billion business.
+
+Article 10:
+Filmmaker Mira Nair discusses her new movie, "The Namesake," which is based on the novel by Jhumpa Lahiri. The film tells the story of an Indian family that immigrates to the United States and the challenges of navigating two different cultures.
+
+Article 11:
+Four suspects have been indicted on murder charges in the slaying of Washington Redskins football star Sean Taylor. The suspects are accused of killing Taylor during a botched burglary at his home.
+
+Article 12:
+A man serving a life sentence for robbery has confessed to killing a deputy who was transporting him to court. The inmate overpowered the deputy and shot him with his own gun.
+
+Article 13:
+"Human error" is being blamed for a ship crash and oil spill in San Francisco Bay that has killed hundreds of birds. The captain and crew of the ship are under investigation for violating federal maritime laws.
+
+Article 14:
+A British hotel chain is offering free accommodation to couples named Joseph and Mary during the Christmas season. The offer is a nod to the biblical story of the Nativity.
+
+Article 15:
+A journalist who traveled the world in search of the happiest places on Earth found that happiness is not always where you expect it. He discovered that some of the most content people live in cold, high-tax countries, and that money does not always buy happiness.
+
+Article 16:
+A Saudi Arabian woman who was gang-raped and then sentenced to prison for speaking out about the case has been pardoned by the king. The case had sparked international outrage and drew attention to the treatment of women in the kingdom.
+
+Article 17:
+The former butler of Princess Diana, Paul Burrell, has been accused of giving conflicting and unreliable testimony at the inquest into her death. The coroner dismissed his claims of a "secret" about the princess as information that was already in the public domain.
+
+Article 18:
+The mother of Princess Diana, Frances Shand Kydd, called her daughter a "whore" for her relationships with Muslim men, according to the princess's former butler. The butler also cast doubt on claims that Diana was about to marry her boyfriend, Dodi Fayed.
+
+Article 19:
+The wife of ousted Thai Prime Minister Thaksin Shinawatra has returned to Thailand to face corruption charges. Her husband, who was deposed in a military coup, is expected to return in April.
+
+Article 20:
+Riots have erupted in the suburbs of Paris for a second night after two teenagers were killed in a collision with a police car. The incident has sparked anger and frustration among residents of the largely immigrant communities.
+
+Article 21:
+Japanese actress Rinko Kikuchi, who was nominated for an Oscar for her role in the film "Babel," is one of Japan's most unconventional and successful young stars. She is known for her edgy style and her willingness to take on challenging roles.
+
+Article 22:
+The disputed presidential election in Kenya has led to widespread violence and instability, raising concerns about the future of one of Africa's most promising economies. The unrest has disrupted business and tourism, and the country's stock market has taken a hit.
+
+Article 23:
+A look at the world of high-end, high-performance motorcycles, from the Italian-made Ducati to the British-built Triumph. The article also features a rock star who has a passion for flying and a trance musician who gives a tour of his hometown.
+
+Article 24:
+The Michigan primary is a key battleground for the Democratic presidential candidates, with a large number of delegates at stake. The state's struggling economy and the influence of independent voters are expected to be major factors in the outcome.
+
+Article 25:
+A search is underway for a pregnant Marine who has been missing from Camp Lejeune, North Carolina, for over a month. Her family is concerned for her safety and believes she may have been a witness to a crime.
+
+Article 26:
+The head of Iraq's main humanitarian organization says the plight of the country's children is nearing epidemic proportions, with many being abandoned by their desperate parents. The organization is struggling to provide food and shelter for the millions of children who have been displaced by the war.
+
+Article 27:
+Coalition forces in Iraq have discovered a "torture complex" and mass graves containing the bodies of 26 people. The discovery was made during an operation to clear an al-Qaeda in Iraq haven.
+
+Summaries from output_chunk_12.txt:
+
+Article 1:
+Declassified documents from the Nixon era reveal that Jordan's King Hussein secretly pleaded with the U.S. to attack Syria in 1970. The documents also show early concerns about terrorism and the Arab-Israeli conflict.
+
+Article 2:
+The Rev. James Orange, a civil rights activist whose jailing in 1965 sparked a protest that led to the Selma-to-Montgomery march, has died at the age of 65. His arrest and the subsequent death of a young black man at the hands of state troopers were a turning point in the civil rights movement.
+
+Article 3:
+Elections in Lebanon have resulted in a split between pro- and anti-government factions, raising concerns about the country's political stability. The results are being closely watched as the country prepares to elect a new president.
+
+Article 4:
+The CIA has asked the Justice Department to investigate whether a former operative illegally disclosed classified information when he spoke about the waterboarding of a terrorism suspect. The former agent has said that waterboarding is torture and should be stopped.
+
+Article 5:
+A Valentine's Day-themed article that explores the highs and lows of the holiday, from romantic gestures to disastrous breakups. The article also looks at the commercialization of the holiday and the pressure to have a perfect day.
+
+Article 6:
+Attorneys for a "high-value" terror suspect held at Guantanamo Bay have asked a judge to bar the CIA from destroying evidence of his alleged torture. The suspect claims he was subjected to a ruthless interrogation program at secret CIA prisons.
+
+Article 7:
+New York City officials have denied a request from Iranian President Mahmoud Ahmadinejad to visit the site of the World Trade Center. The controversial leader had wanted to pay his respects to the victims of the 9/11 attacks.
+
+Article 8:
+A Florida judge has ruled that evidence found in the car of former astronaut Lisa Nowak and statements she made to police are inadmissible at her trial. Nowak is accused of assaulting a romantic rival in a parking lot.
+
+Article 9:
+A forensic artist who creates facial reconstructions of unidentified murder victims has earned the nickname "the skull lady." Her work has helped to identify the remains of numerous victims and has brought closure to their families.
+
+Article 10:
+Zookeepers in Germany are bottle-feeding a polar bear cub after its mother showed signs of wanting to eat it. The cub is thriving in human care, but the incident has raised questions about the ethics of keeping polar bears in captivity.
+
+Article 11:
+The parents of a man who shot and killed two teenage sisters at a Colorado church have met with the parents of the victims. The meeting was described as "extremely emotional" and was part of the healing process for both families.
+
+Article 12:
+More than a dozen wildfires are raging across Southern California, forcing hundreds of thousands of people to evacuate their homes. The fires have destroyed or damaged hundreds of homes and businesses and have been fueled by strong winds.
+
+Article 13:
+The Old Firm derby between Celtic and Rangers in Scotland has been postponed following the death of Motherwell captain Phil O'Donnell. O'Donnell, a former Celtic player, collapsed on the field during a match and later died.
+
+Article 14:
+In India, a mobile court system is being used to clear a massive backlog of unresolved court cases. The courts travel to rural areas to hear cases, making it easier for people to access the justice system.
+
+Article 15:
+The White House's top adviser on homeland security, Frances Townsend, is stepping down from her post. She has served in the position for four and a half years and has been a key figure in the administration's fight against terrorism.
+
+Article 16:
+The families of nearly 400 people who were killed by a paramilitary group in Colombia have filed a lawsuit against Chiquita Brands International. The lawsuit alleges that the company made payments to the group and should be held responsible for the deaths.
+
+Article 17:
+A 2-year-old girl who was found dead in a plastic storage box was beaten and held underwater before she died, according to a police affidavit. The girl's mother and her husband have been charged with her murder.
+
+Article 18:
+A chronology of bomb attacks and attempts in mainland Britain since the 1970s, including the recent discovery of two car bombs in London, the 7/7 London bombings in 2005, and other attacks by various groups.
+
+Article 19:
+A major beef recall has been expanded to include 21.7 million pounds of ground beef patties that may be contaminated with E. coli. The recall is one of the largest in U.S. history.
+
+Article 20:
+A boy playing with matches has been identified as the cause of a massive wildfire in Southern California that has burned more than 38,000 acres. The boy, whose name and age have not been released, has admitted to accidentally starting the fire.
+
+Summaries from output_chunk_13.txt:
+
+Article 1:
+A new poll shows that the Democratic presidential race in Ohio is a statistical dead heat between Senators Hillary Clinton and Barack Obama. The poll also shows that John McCain is the clear favorite for the Republican nomination in the state.
+
+Article 2:
+A tanker truck carrying 9,000 gallons of gasoline overturned and exploded in a Boston suburb, forcing the evacuation of hundreds of people. No serious injuries were reported, but the blast destroyed several cars and buildings.
+
+Article 3:
+Brazilian soccer star Kaka has been named the 2007 World Footballer of the Year. The AC Milan midfielder has had a stellar year, leading his team to victory in the Champions League and winning numerous individual awards.
+
+Article 4:
+Interpol has made a global appeal for help in identifying a man who is suspected of sexually abusing underage boys. The man's face was disguised in photos that were posted on the Internet, but investigators have been able to digitally reconstruct his image.
+
+Article 5:
+An audit of the Ronald Reagan Presidential Library has found that up to 80,000 items are unaccounted for. The audit blames haphazard record-keeping and inventory procedures for the missing items.
+
+Article 6:
+Dozens of U.S. military personnel are involved in fighting the wildfires in Southern California, and thousands more are on standby to help. The military is providing firefighting teams, helicopters, and other resources to help battle the blazes.
+
+Article 7:
+A video of actor Tom Cruise discussing his beliefs in Scientology has been leaked onto the Internet. The video, which was shown at a Scientology ceremony in 2004, has created a stir and has been viewed by millions of people.
+
+Article 8:
+Australia's new prime minister, Kevin Rudd, has assured Afghan President Hamid Karzai that his country's troops will remain in Afghanistan for the "long haul." Rudd made the comments during a visit to Kabul.
+
+Article 9:
+Former NFL quarterback Michael Vick has turned himself in to authorities to begin serving his sentence for running a dogfighting ring. Vick, who was suspended indefinitely by the NFL, faces 12 to 18 months in prison.
+
+Article 10:
+Pope Benedict XVI has said that football should be used to teach young people moral lessons. The pope made the comments during an audience with representatives from the Italian football league.
+
+Article 11:
+Two tractor-trailer trucks crashed and burst into flames on a bridge between the United States and Mexico, killing four people and shutting down a key border crossing. The accident triggered a chain-reaction crash with three other vehicles.
+
+Article 12:
+The wife of ousted Thai Prime Minister Thaksin Shinawatra has returned to Thailand to face corruption charges. Her husband, who was deposed in a military coup, is expected to return in April.
+
+Article 13:
+Riots have erupted in the suburbs of Paris for a second night after two teenagers were killed in a collision with a police car. The incident has sparked anger and frustration among residents of the largely immigrant communities.
+
+Article 14:
+Japanese actress Rinko Kikuchi, who was nominated for an Oscar for her role in the film "Babel," is one of Japan's most unconventional and successful young stars. She is known for her edgy style and her willingness to take on challenging roles.
+
+Article 15:
+The disputed presidential election in Kenya has led to widespread violence and instability, raising concerns about the future of one of Africa's most promising economies. The unrest has disrupted business and tourism, and the country's stock market has taken a hit.
+
+Article 16:
+A look at the world of high-end, high-performance motorcycles, from the Italian-made Ducati to the British-built Triumph. The article also features a rock star who has a passion for flying and a trance musician who gives a tour of his hometown.
+
+Article 17:
+The Michigan primary is a key battleground for the Democratic presidential candidates, with a large number of delegates at stake. The state's struggling economy and the influence of independent voters are expected to be major factors in the outcome.
+
+Article 18:
+A search is underway for a pregnant Marine who has been missing from Camp Lejeune, North Carolina, for over a month. Her family is concerned for her safety and believes she may have been a witness to a crime.
+
+Article 19:
+The head of Iraq's main humanitarian organization says the plight of the country's children is nearing epidemic proportions, with many being abandoned by their desperate parents. The organization is struggling to provide food and shelter for the millions of children who have been displaced by the war.
+
+Article 20:
+Coalition forces in Iraq have discovered a "torture complex" and mass graves containing the bodies of 26 people. The discovery was made during an operation to clear an al-Qaeda in Iraq haven.
+
+Summaries from output_chunk_14.txt:
+
+Article 1:
+Pakistan's foreign ministry has rejected concerns raised by the head of the UN's nuclear watchdog agency that the country's nuclear weapons could fall into the hands of extremists. The ministry said the comments were "irresponsible" and "unwarranted."
+
+Article 2:
+The assassination of former Pakistani Prime Minister Benazir Bhutto has refocused the U.S. presidential campaign on foreign policy. Candidates are debating who is best qualified to deal with the crisis in Pakistan and the broader threat of terrorism.
+
+Article 3:
+A look back at the civil war in Lebanon, which raged from 1975 to 1990. The war was a complex and brutal conflict that involved a variety of local and international actors.
+
+Article 4:
+Seven Manchester United fans were hospitalized after violence flared before a Champions League match against Roma in Rome. Five of the fans had been stabbed, but none of the injuries were serious.
+
+Article 5:
+An intense manhunt is underway for a man who is suspected of raping a 3-year-old girl on videotape. The suspect's former girlfriend has come forward to identify him and has expressed her disgust and mortification at her role in bringing him into contact with the girl.
+
+Article 6:
+A video released by al-Qaeda shows an American member of the group renouncing his U.S. citizenship and calling for attacks on the United States. The man, who is originally from California, has been identified as Adam Gadahn.
+
+Article 7:
+A former aide to John F. Kennedy discusses the former president's famous 1960 speech on religion and politics. The aide says that Kennedy's speech was a landmark moment in American history and that it helped to defuse the issue of his Catholicism.
+
+Article 8:
+The Boeing 777 is one of the most popular and reliable long-haul aircraft in the world. The plane has never been involved in a fatal accident and has set numerous records for distance and speed.
+
+Article 9:
+A major donors conference for the Palestinians has raised $7.4 billion to help build a Palestinian state. The conference was attended by representatives from more than 80 countries and international organizations.
+
+Article 10:
+Rep. Tom Lantos, the only Holocaust survivor to have served in the U.S. Congress, has died at the age of 80. Lantos was a passionate advocate for human rights and was known for his eloquence and his commitment to public service.
+
+Article 11:
+A series of car bombs in the largely Shiite city of Amara, Iraq, has killed at least 27 people and wounded 151. The attacks are the latest in a wave of violence that has targeted Shiite civilians.
+
+Article 12:
+A look at the ethnic tensions that have fueled the post-election violence in Kenya. The country is home to more than 40 different tribes, and the election pitted the incumbent president, from the country's largest tribe, against an opposition leader from another major tribe.
+
+Article 13:
+A controversial Muslim feminist argues that former Pakistani Prime Minister Benazir Bhutto's legacy is mixed. She says that while Bhutto was a brave and charismatic leader, she did not do enough to challenge the country's patriarchal culture.
+
+Article 14:
+The king of Saudi Arabia has pardoned a rape victim who had been sentenced to 200 lashes and six months in prison. The case had sparked international outrage and drew attention to the treatment of women in the kingdom.
+
+Article 15:
+The former butler of Princess Diana, Paul Burrell, has been accused of giving conflicting and unreliable testimony at the inquest into her death. The coroner dismissed his claims of a "secret" about the princess as information that was already in the public domain.
+
+Article 16:
+The mother of Princess Diana, Frances Shand Kydd, called her daughter a "whore" for her relationships with Muslim men, according to the princess's former butler. The butler also cast doubt on claims that Diana was about to marry her boyfriend, Dodi Fayed.
+
+Article 17:
+The United States, Turkey, and Iraq are holding talks about Turkish military operations against Kurdish rebels in northern Iraq. Turkey has been carrying out airstrikes against the rebels, who it says are using northern Iraq as a base for attacks on Turkish targets.
+
+Article 18:
+Top-seeded Roger Federer was upset by David Nalbandian in the final of the Madrid Masters tennis tournament. Nalbandian, who was unseeded, defeated the world's top three players en route to the title.
+
+Article 19:
+U.S. military officials say that several Marines who were involved in the 2004 offensive in Fallujah, Iraq, are now the focus of an investigation into allegations that civilians were intentionally killed during the operation.
+
+Article 20:
+Heavy rains and flooding have forced hundreds of thousands of people from their homes in southern Mexico. The floods are the worst in the region in 50 years and have caused widespread damage to homes and infrastructure.
+
+Summaries from output_chunk_15.txt:
+
+Article 1:
+Two Italian tennis players have been banned by the ATP for betting on matches. The players, Potito Starace and Daniele Bracciali, have been suspended for six weeks and three months, respectively, and have been fined.
+
+Article 2:
+The sole survivor of the car crash that killed Princess Diana has told a court that he still cannot remember the incident. The bodyguard, Trevor Rees-Jones, also said that he does not support the conspiracy theories surrounding the crash.
+
+Article 3:
+A father and his three children who were stranded in the snowy California woods for three days have been rescued. The family had gotten lost while searching for a Christmas tree and had fashioned a "Help" sign out of twigs.
+
+Article 4:
+The film "No Country for Old Men" was the big winner at the Screen Actors Guild Awards, taking home the award for best picture. The four acting awards all went to British actors.
+
+Article 5:
+The death of a passenger on a United Airlines flight has highlighted the importance of taking precautions before flying. The passenger, who had a pre-existing medical condition, died after complaining of trouble breathing.
+
+Article 6:
+President Bush has signed a sweeping energy bill that will raise automotive fuel economy standards for the first time in more than three decades. The bill also boosts federal support for alternative fuel research and energy conservation efforts.
+
+Article 7:
+President Bush has called on faith-based groups to play a greater role in the fight against AIDS. The president made the comments on the eve of World AIDS Day.
+
+Article 8:
+A New Jersey court has ruled that a 12-year-old boy should have a say in whether he gets circumcised. The case involves a custody dispute between the boy's divorced parents, one of whom has converted to Judaism.
+
+Article 9:
+A man who rescued a co-worker from the jaws of a crocodile in Australia also accidentally shot him in the process. The man was trying to shoot the crocodile, but one of the bullets struck his co-worker in the arm.
+
+Article 10:
+Four active-duty U.S. soldiers have been arrested and charged with planning to rob drug traffickers. The soldiers, three of whom are elite Army Rangers, are accused of conspiring to steal cocaine from a drug cartel.
+
+Article 11:
+The president of Armenia has declared a state of emergency after a day of clashes between police and protesters. The protesters are demanding a new presidential election, claiming that the recent vote was rigged.
+
+Article 12:
+Nearly 3 million gallons of sewage have spilled into San Francisco Bay after a pump failed at a waste treatment facility. The spill has forced the closure of several beaches and has raised concerns about the health of the bay.
+
+Article 13:
+A massive anti-Mafia sweep in Italy and the United States has resulted in the arrest of 62 people. The suspects are accused of a variety of crimes, including murder, extortion, and drug trafficking.
+
+Article 14:
+Saddam Hussein let the world think he had weapons of mass destruction to intimidate Iran and prevent the country from attacking Iraq, according to a former CIA agent who interrogated the dictator.
+
+Article 15:
+A photo gallery of the newborn twins of actress Julia Roberts.
+
+Article 16:
+A look at the complexity of the Hispanic and Latino identity in the United States. The article explores the diversity of the Hispanic and Latino population and the challenges of trying to define it.
+
+Article 17:
+The U.S. Navy has moved a guided-missile destroyer and other ships to the eastern Mediterranean off the coast of Lebanon. The deployment comes amid a political standoff over the country's presidency.
+
+Article 18:
+Hillary Clinton has won the Ohio, Texas, and Rhode Island primaries, giving her a much-needed boost in her bid for the Democratic presidential nomination. Barack Obama won the Vermont primary.
+
+Article 19:
+The top three Democratic presidential candidates faced off in a debate in South Carolina, with the hearts and minds of African-American voters on the line. The debate was held on Martin Luther King Jr. Day.
+
+Article 20:
+Pakistani President Pervez Musharraf has said that former Prime Minister Benazir Bhutto's assassination was her own fault. Musharraf said that Bhutto was to blame for standing up outside her car, which made her an easy target.
+
+Article 21:
+A Texas couple charged with killing the little girl known as "Baby Grace" now face capital murder charges. The girl's body was found in a plastic storage box that washed up on a Galveston beach.
+
+Summaries from output_chunk_2.txt:
+
+Article 1:
+Savers at a major British mortgage bank, Northern Rock, have been lining up to withdraw their money after the lender was bailed out by the Bank of England. The bank has been hit hard by the global credit crunch and has been forced to seek emergency funding.
+
+Article 2:
+Former football star O.J. Simpson has been arrested on robbery and assault charges in Las Vegas. Simpson is accused of leading a group of men in an armed robbery of sports memorabilia from a hotel room.
+
+Article 3:
+A Nigerian television survival show has been suspended after a contestant drowned during a challenge. The contestant was one of 10 participants in the "Gulder Ultimate Search," a popular show that sets a variety of physical challenges for its contestants.
+
+Article 4:
+A former government contract employee has been indicted on charges of stealing restricted nuclear energy-related materials and trying to sell them to a foreign agent. The materials were taken from the Los Alamos National Laboratory in New Mexico.
+
+Article 5:
+Chelsea defender John Terry has been ruled out of his team's Champions League match against Valencia with a broken cheekbone. The injury is a major blow to Chelsea, who are already without several other key players.
+
+Article 6:
+A dire shortage of donated organs in rich countries is fueling a black market for organs in poorer nations. "Transplant tourists" are traveling to countries like China, India, and Pakistan to buy kidneys and other organs from people who are desperate for money.
+
+Article 7:
+The recent legal troubles of actress Lindsay Lohan have raised questions about whether she is still insurable for film roles. Insurance experts say that while Lohan may still be able to get work, the cost of insuring her will be high.
+
+Article 8:
+Italian soccer star Francesco Totti has threatened to quit the national team in a row over the starting date of the next Serie A season. Totti is unhappy that the league has voted to start the season on August 26, which he says will not give him enough time to prepare for Italy's Euro 2008 qualifiers.
+
+Article 9:
+The private security firm Blackwater USA has been suspended from its operations in Iraq after a shooting incident in which 20 Iraqi civilians were killed. The firm, which provides security for U.S. diplomats in Iraq, has been accused of using excessive force.
+
+Article 10:
+A 5-year-old Iraqi boy who was severely burned in an attack has been given a hero's welcome at Universal Studios in Hollywood. The boy, who is a huge Spider-Man fan, met his favorite superhero and was given a tour of the theme park.
+
+Article 11:
+A U.S. Marine has been convicted for his role in the death of an Iraqi civilian. The Marine was found guilty of kidnapping and conspiracy to commit murder and other offenses.
+
+Article 12:
+Prince William has paid tribute to his mother, Princess Diana, on the 10th anniversary of her death. In a speech at a memorial service, he described her as "the best mother in the world."
+
+Article 13:
+French Foreign Minister Bernard Kouchner has warned that the world must be prepared for the possibility of war with Iran over its nuclear program. Kouchner's comments have been criticized by some as being too hawkish.
+
+Article 14:
+A list of songs that were written for one person but became famous for another. The list includes "It Ain't Me, Babe," which was written by Bob Dylan for his then-girlfriend, but was made famous by Johnny Cash.
+
+Article 15:
+The 2008 presidential election is on track to be the most expensive in U.S. history, with spending on political and issue-advocacy advertising expected to exceed $3 billion. The wide-open race and the willingness of candidates and interest groups to spend heavily are driving the record-breaking spending.
+
+Article 16:
+Relatives of the 89 people who were killed in a plane crash in Thailand have been arriving in the resort town of Phuket to identify their loved ones. Most of the victims were foreign tourists.
+
+Article 17:
+Filmmaker Michael Moore has defended his new documentary, "Sicko," which takes a critical look at the U.S. health care system. Moore has been accused of fudging the facts in the film, but he says that all of the information in the movie is accurate.
+
+Summaries from output_chunk_3.txt:
+
+Article 1:
+A landslide in a wealthy Southern California community has forced the evacuation of more than 100 homes. The landslide, which was about 60 yards wide, pulled the earth from beneath a three-lane road and some of the multimillion-dollar homes that adorn it.
+
+Article 2:
+Most of the 103 children that a French charity attempted to take to France from Chad for adoption are neither Sudanese nor orphans, three international aid agencies reported on Thursday. The charity had said the children were Sudanese orphans that it was trying to rescue from a war-torn nation.
+
+Article 3:
+An island that was once thought to be a peninsula attached to Greenland by an ice shelf has been revealed to be a distinct island after a large amount of ice melted. The discovery is being cited as an example of climate change.
+
+Article 4:
+An enraged crowd dragged the body of an Ethiopian soldier through the streets of Somalia's capital Thursday after gun battles with Islamic insurgents killed 19 people, witnesses reported. The incident was a brutal echo of a 1993 battle in which the bodies of U.S. troops were dragged through the streets.
+
+Article 5:
+The disappearance of a suburban Chicago police sergeant's wife is now being treated as a potential homicide, and her husband is a suspect, authorities said Friday. The woman has been missing from her home since October 28.
+
+Article 6:
+Third-seed Julia Vakulenko will face comeback queen Lindsay Davenport in her first WTA Tour final at the Bell Challenge on Saturday. Vakulenko battled through with a 6-1 4-6 7-5 victory over American qualifier Julie Ditty in the semifinals.
+
+Article 7:
+Hours after declaring a state of emergency Saturday, Pakistani President Pervez Musharraf ordered troops to take a television station's equipment and put a popular opposition leader under house arrest. Musharraf also suspended the constitution and dismissed the country's chief justice for the second time.
+
+Article 8:
+The chief operating officer of the Philadelphia Museum of Art was arrested Tuesday and is charged with distributing child pornography over the Internet, authorities said. The man is accused of sending images depicting child pornography to people he believed to be a 12-year-old girl and her 33-year-old mother.
+
+Article 9:
+A man arrested for the videotaped rape of a 2-year-old girl made his initial court appearance in Las Vegas, Nevada, on Wednesday morning on charges stemming from the incident. The man, who was arrested Monday night, faces 23 felony counts, including a charge of lewdness with a minor, sexual assault and the use of a child in the production of pornography.
+
+Article 10:
+South African fast bowler Dale Steyn took a career-best five for 34 as the Proteas took a tight grip on the first test against New Zealand in Johannesburg. New Zealand were bowled out for 118 in reply to South Africa's 226 and the home side piled on the agony by reaching 179 for two in their second innings.
+
+Article 11:
+A guide to enjoying the summer, with tips on how to cut jeans into shorts, catch fireflies, and run on the beach.
+
+Article 12:
+In Jordan, the government is allowing all Iraqi children, regardless of refugee status, to enroll in state-funded schools. The move is cementing a massive population shift in the Middle East, as more than 2.2 million Iraqis have fled the violence in their homeland.
+
+Article 13:
+The owner of a South Carolina beach house where seven college students died in a weekend fire said Monday that his family's "lives were just changed forever" by the tragedy. The students, six from the University of South Carolina and one from Clemson University, died in the fire early Sunday morning.
+
+Article 14:
+Venezuelan President Hugo Chavez said Wednesday he is cutting all ties with Colombia as long as Alvaro Uribe remains its president. Chavez's announcement came after Uribe ended Chavez's participation in efforts to secure the release of hostages held by the leftist rebel group FARC.
+
+Summaries from output_chunk_4.txt:
+
+Article 1:
+Authorities in Azerbaijan have uncovered a radical Islamic terror plot against the U.S. Embassy in the capital, Baku, prompting the facility to close its doors to the public Monday, Azeri and U.S. officials told CNN.
+
+Article 2:
+World number three Novak Djokovic crashed out of the Paris Masters after being trounced in his opening match by veteran Frenchman Fabrice Santoro on Wednesday. The 34-year-old Santoro, who beat world No. 5 Andy Roddick at the Lyon Grand Prix last week, again rose to the occasion in front of his home fans as he stormed to a 6-3 6-2 second-round victory against the Serbian.
+
+Article 3:
+A guide to applying lipstick perfectly, with tips on the most flattering shades for day and night.
+
+Article 4:
+Actress Katherine Heigl, who has had a hit TV show, an Emmy, a summer blockbuster, a new company, and a wedding all in the past year, is featured in a fashion spread in InStyle magazine.
+
+Article 5:
+A list of quirky and unusual museums, including the Spam Museum in Austin, Minnesota, the National Museum of Funeral History in Houston, Texas, and the Hobo Museum in Britt, Iowa.
+
+Article 6:
+Interpol has made a global appeal for help in identifying a man who is suspected of sexually abusing underage boys. The man's face was disguised in photos that were posted on the Internet, but investigators have been able to digitally reconstruct his image.
+
+Article 7:
+A brief history of the global information company Reuters, which was founded in 1851 and is now the world's largest international multimedia news agency.
+
+Article 8:
+Six of the seven college students killed in a massive house fire Sunday morning in Ocean Isle Beach, North Carolina, attended the University of South Carolina, a university official said Sunday. The seventh fatality is believed to be a Clemson University student.
+
+Article 9:
+Attacks are down 75 percent in recent months in a perilous stretch of neighborhoods in northeastern Baghdad, prompting a U.S. military officer to proclaim Monday that security there is "dramatically improving."
+
+Article 10:
+Officials are searching for the driver of a white truck seen on a rural road on Sunday, near the time the Santiago fire started, Orange County, California, authorities said Friday.
+
+Article 11:
+A brief overview of the John Lewis Partnership, a British retail company that is owned by its employees.
+
+Article 12:
+A brief overview of Qualcomm, a telecommunications company that is a leader in the development of CDMA technology.
+
+Article 13:
+A girl who was shown on a videotape being sexually assaulted in Las Vegas has been found and is safe, officials in Clark County, Nevada, said Friday. A suspect has been identified and is being sought in the case.
+
+Article 14:
+A list of six creative types who have managed to raise egotism to an art form, including Alfred Hitchcock, Ayn Rand, and Frank Lloyd Wright.
+
+Article 15:
+AC Milan's Brazilian midfielder Kaka has been named European player of the year, lifting the prestigious Ballon d'Or award. His success comes two years after his fellow countryman, Barcelona's Ronaldinho, claimed the award.
+
+Article 16:
+A brief overview of BUPA, an international health and care company with bases on three continents and more than eight million customers.
+
+Article 17:
+The owner of a South Carolina beach house where seven college students died in a weekend fire said Monday that his family's "lives were just changed forever" by the tragedy.
+
+Article 18:
+French President Nicolas Sarkozy's declaration that Iran had to prepare for the possibility of war against the West over its nuclear program was not conventional diplomatic behavior. But then Kouchner was never expected to be a soft-soaper on the diplomatic scene.
+
+Article 19:
+A man named as a suspect in the fatal shooting of a Philadelphia, Pennsylvania, police officer last week was captured at a shelter in Miami, Florida, on Tuesday, Philadelphia Police Commissioner Sylvester Johnson said at a news conference.
+
+Article 20:
+A look at some of the more sculpted and stylish cars available for about $20,000 that will hold their looks for a long time and give a little bit of joy to a first-time owner.
+
+Summaries from output_chunk_5.txt:
+
+Article 1:
+One Australian soldier, three civilians and several Taliban militants were killed early Friday during heavy fighting in southern Afghanistan, according to information from Australian and NATO officials.
+
+Article 2:
+An 18-year-old student shot and killed eight people at his high school in southern Finland before turning the gun on himself, police said. The shooting appeared to have been planned out in graphic videos posted on the Internet.
+
+Article 3:
+France coach Raymond Domenech has again omitted striker David Trezeguet from his squad for this month's friendly against Morocco and the Euro 2008 qualifier against Ukraine.
+
+Article 4:
+Polygamous sect leader Warren Jeffs tried to hang himself earlier this year while he was in jail awaiting trial, according to court documents unsealed by a Utah judge on Tuesday.
+
+Article 5:
+Championship leader Lewis Hamilton spun out of the Chinese Grand Prix to send the world title race to a cliffhanger finale in Brazil on October 21.
+
+Article 6:
+CNN is hosting a series of master classes on modern business strategies, with the first event featuring Starbucks chairman Howard Schultz.
+
+Article 7:
+The chief executive of Dubai World, Sultan Ahmed bin Sulayem, discusses the emirate's economic reforms and its role as a global financial center.
+
+Article 8:
+Rescuers are sifting through the rubble of the United Nations headquarters in Algiers hoping to find survivors after a powerful bomb ripped off the building's facade and leveled nearby government offices.
+
+Article 9:
+Lionel Messi scored for the sixth game in a row as Barcelona defeated big-spending Atletico Madrid to stay in touch with La Liga leaders Real Madrid.
+
+Article 10:
+The Japanese Grand Prix is returning to Fuji Speedway, a track that has not seen a Formula One race since 1977. The move is part of a plan to alternate the race between Fuji and the popular Suzuka circuit.
+
+Article 11:
+Celtic have been fined $50,800 by UEFA and AC Milan goalkeeper Dida has been banned for two matches after the incident which saw a pitch-invading supporter approach the Brazilian goalkeeper in last week's Champions League match at Parkhead.
+
+Article 12:
+The White House is blasting Congressional Democrats for not sending a bill that would fund veterans' care programs to the president's desk by Veterans Day.
+
+Article 13:
+Muddy but unhurt, three Texas A&M University students emerged from a cramped cave complex in Austin, Texas, after a day-long search Sunday.
+
+Article 14:
+U.S. first lady Laura Bush, in a rare foray into foreign policy, called on Myanmar's military junta to "step aside," give up the "terror campaigns" against its people and allow for a democratic Burma in a commentary published in Wednesday's Wall Street Journal.
+
+Article 15:
+President Bush vetoed a $600 billion spending bill Tuesday, accusing Democratic leaders of wasting money and plotting tax increases, then took his budget fight with Congress on the road.
+
+Article 16:
+France lock Sebastien Chabal has been cited for a dangerous tackle on England's Simon Shaw during Saturday's World Cup semifinal in Paris.
+
+Article 17:
+A Massachusetts man terrorized by threats after testifying against his daughter's abusive boyfriend says he has spent $10,000 on a security system, hired a bodyguard for his son's wedding and never leaves home without a .45-caliber handgun strapped to his chest.
+
+Article 18:
+Previously unseen footage of Diana, Princess of Wales, taken just hours before she was killed in a car crash, has been shown to the jury at the inquest into her death.
+
+Article 19:
+The U.S. military says attacks are down 75 percent in recent months in a perilous stretch of neighborhoods in northeastern Baghdad, prompting a U.S. military officer to proclaim Monday that security there is "dramatically improving."
+
+Article 20:
+A look at some of the most stylish and affordable cars for first-time buyers.
+
+Summaries from output_chunk_6.txt:
+
+Article 1:
+The U.S. military says that none of the 1,000-plus Iraqi detainees freed in recent weeks have broken a pledge not to return to the insurgency. The detainees were released as part of a program to promote reconciliation in the country.
+
+Article 2:
+A Tennessee court has refused to overturn a lower court's ruling allowing Mary Winkler, who was convicted of killing her minister husband, to have visitation rights with her three daughters.
+
+Article 3:
+Two Pakistani television networks have been ordered off the air at the request of President Pervez Musharraf. The networks, which transmit from Dubai, have been critical of the government.
+
+Article 4:
+Four people were killed and several injured after an explosion at a chemical plant in Jacksonville, Florida. The blast sent a thick plume of smoke over the city.
+
+Article 5:
+A look at the rise of online wine communities, which are demystifying the world of wine and making it more accessible to a new generation of drinkers.
+
+Article 6:
+The U.S. government has suspended the operations of the private security firm Blackwater USA in Iraq after a shooting incident in which 20 Iraqi civilians were killed.
+
+Article 7:
+A look at the life and career of Lindsay Lohan, who has gone from a promising young actress to a troubled starlet with a string of legal problems.
+
+Article 8:
+A look at the history of the Italian soccer club Juventus, which is one of the most successful and popular clubs in the world.
+
+Article 9:
+The U.S. military is investigating allegations that Marines intentionally killed civilians during the 2004 offensive in Fallujah, Iraq.
+
+Article 10:
+Heavy rains and flooding have forced hundreds of thousands of people from their homes in southern Mexico. The floods are the worst in the region in 50 years.
+
+Article 11:
+A look at the life and career of the late South African reggae star Lucky Dube, who was killed in an attempted carjacking.
+
+Article 12:
+Previously unseen footage of Princess Diana, taken just hours before she was killed in a car crash, has been shown to the jury at the inquest into her death.
+
+Article 13:
+The U.S. military says that attacks are down 75 percent in recent months in a perilous stretch of neighborhoods in northeastern Baghdad.
+
+Article 14:
+A look at the life and career of the late South African reggae star Lucky Dube, who was killed in an attempted carjacking.
+
+Article 15:
+A look at the life and career of the late South African reggae star Lucky Dube, who was killed in an attempted carjacking.
+
+Article 16:
+A look at the life and career of the late South African reggae star Lucky Dube, who was killed in an attempted carjacking.
+
+Article 17:
+A look at the life and career of the late South African reggae star Lucky Dube, who was killed in an attempted carjacking.
+
+Article 18:
+A look at the life and career of the late South African reggae star Lucky Dube, who was killed in an attempted carjacking.
+
+Article 19:
+A look at the life and career of the late South African reggae star Lucky Dube, who was killed in an attempted carjacking.
+
+Article 20:
+A look at the life and career of the late South African reggae star Lucky Dube, who was killed in an attempted carjacking.
+
+Summaries from output_chunk_7.txt:
+
+Article 1:
+Manchester United defender Nemanja Vidic has been declared fit to play in his team's Champions League match against Dynamo Kiev. The Serbian international had been doubtful for the match after suffering a concussion.
+
+Article 2:
+The U.S. government has suspended the operations of the private security firm Blackwater USA in Iraq after a shooting incident in which 20 Iraqi civilians were killed.
+
+Article 3:
+AC Milan goalkeeper Dida has been cleared to play in his team's Champions League match against Celtic after successfully appealing a two-match ban.
+
+Article 4:
+The late South African reggae star Lucky Dube was killed in an attempted carjacking, his record label said Friday.
+
+Article 5:
+A Nationwide Airlines Boeing 737 made an emergency landing in Cape Town, South Africa, after an engine fell from a wing during takeoff. No one was injured in the incident.
+
+Article 6:
+The U.S. government's response to the Southern California wildfires is being closely watched for comparisons to its failures in Hurricane Katrina.
+
+Article 7:
+A look at the life and career of the late professional wrestler Chris Benoit, who murdered his wife and son before hanging himself.
+
+Article 8:
+A look at the history of the Roman Empire and the wild and rebellious princess who may have been responsible for its fall.
+
+Article 9:
+The world's oldest football club, Sheffield FC, is celebrating its 150th anniversary. The club was founded in 1857 and was instrumental in developing the rules of the modern game.
+
+Article 10:
+A look at the strange and true stories behind some of the clothes and accessories we know and love, from the sports bra to the stiletto heel.
+
+Article 11:
+Barcelona have recalled Ronaldinho to their squad for Tuesday's Champions League match against Rangers in Glasgow. The Brazilian was omitted from the squad that lost to Villarreal on Saturday after returning late from international duty.
+
+Article 12:
+A look at the growing trend of Christian rock music and the young people who are drawn to its message of faith and hope.
+
+Article 13:
+A look back at the civil war in Lebanon, which raged from 1975 to 1990. The war was a complex and brutal conflict that involved a variety of local and international actors.
+
+Article 14:
+Firefighters in Southern California are battling 15 wildfires that have scorched more than 400,000 acres and forced hundreds of thousands of people to flee their homes.
+
+Article 15:
+A look at the life and career of Sallie Krawcheck, the chairman and CEO of Citigroup's Global Wealth Management division.
+
+Article 16:
+One of the larger fires in Southern California was deliberately started by someone with apparent knowledge of arson, a fire official said Thursday.
+
+Article 17:
+Conditions that created what California Gov. Arnold Schwarzenegger dubbed "the perfect storm for fire" eased Wednesday, helping firefighters gain ground against devastating Southern California wildfires.
+
+Article 18:
+A British teacher has been found guilty of insulting religion and sentenced to 15 days in prison in Sudan for allowing a teddy bear to be named "Mohammed."
+
+Summaries from output_chunk_8.txt:
+
+Article 1:
+A woman who has been a type 1 diabetic for 40 years shares her story of life with the disease. She says that while diabetes can be a burden, it has also been a blessing in disguise, forcing her to eat healthily and teaching her about good nutrition.
+
+Article 2:
+Former Wales and British and Irish Lions rugby center Ray Gravell has died of a suspected heart attack at the age of 56. Gravell was a much-loved figure in Welsh rugby and was known for his passion and flair on the field.
+
+Article 3:
+Democratic presidential hopeful Barack Obama has been criticized for his association with a gospel singer who has made anti-gay comments. The controversy has highlighted the pitfalls of trying to appeal to a broad range of voters.
+
+Article 4:
+Atletico Madrid recovered from their painful recent defeat by Barcelona to crush their city rivals Real Zaragoza 4-0 in the Spanish league on Sunday.
+
+Article 5:
+A brief overview of Las Vegas Sands Corp., a leading developer of casino resorts.
+
+Article 6:
+U.S. Secretary of State Condoleezza Rice has said that Foreign Service officers should serve where they are needed, even in war-torn Iraq. Her comments came after some officers objected to the possibility of being forced to serve in the country.
+
+Article 7:
+Firefighters in Southern California are battling 15 wildfires that have scorched more than 400,000 acres and forced hundreds of thousands of people to flee their homes.
+
+Article 8:
+The commander of the nuclear-powered submarine USS Hampton has been relieved of his command amid an inquiry into misconduct by crew members.
+
+Article 9:
+A bus crash in Arkansas has killed three people and injured 40 others. The bus was carrying people on a ski trip when it left a highway and rolled over.
+
+Article 10:
+A woman who lost 95 pounds through diet and exercise shares her story of transformation. She says that she was once so heavy that she had trouble breathing, but that she is now fit and healthy.
+
+Article 11:
+The new Airbus A380, the world's largest passenger jet, has completed its maiden voyage. The plane, which is owned by Singapore Airlines, flew from Singapore to Sydney, Australia.
+
+Article 12:
+The U.S. Justice Department has announced plans to combat the illegal export of U.S. military technology to China and Iran. The department said that the two countries pose a particular threat to U.S. national security.
+
+Article 13:
+A look at the complex and often contradictory relationship between Britain and Saudi Arabia. The two countries are close allies, but they also have a number of disagreements on issues such as human rights and terrorism.
+
+Article 14:
+The U.S. military says that attacks are down 75 percent in recent months in a perilous stretch of neighborhoods in northeastern Baghdad.
+
+Article 15:
+A look at the life and career of the late South African reggae star Lucky Dube, who was killed in an attempted carjacking.
+
+Article 16:
+A look at the life and career of the late South African reggae star Lucky Dube, who was killed in an attempted carjacking.
+
+Article 17:
+A look at the life and career of the late South African reggae star Lucky Dube, who was killed in an attempted carjacking.
+
+Article 18:
+A look at the life and career of the late South African reggae star Lucky Dube, who was killed in an attempted carjacking.
+
+Article 19:
+A look at the life and career of the late South African reggae star Lucky Dube, who was killed in an attempted carjacking.
+
+Article 20:
+A look at the life and career of the late South African reggae star Lucky Dube, who was killed in an attempted carjacking.
+
+Summaries from output_chunk_9.txt:
+
+Article 1:
+A list of the supposed birthplaces of some of America's most iconic foods, including the hamburger, the fried Twinkie, and the Shirley Temple.
+
+Article 2:
+Authorities in Azerbaijan have uncovered a radical Islamic terror plot against the U.S. Embassy in the capital, Baku, prompting the facility to close its doors to the public Monday, Azeri and U.S. officials told CNN.
+
+Article 3:
+The crew members of a North Korean freighter have regained control of their ship from pirates who hijacked the vessel off Somalia, but not without a deadly fight, the U.S. Navy said Tuesday.
+
+Article 4:
+Pamela Lafave, the former Michigan middle school teacher convicted of having sex with a student, violated her probation by hugging a young co-worker, a Michigan judge found Thursday.
+
+Article 5:
+A look at the life and career of fashion designer Ralph Lauren, who has built a global empire on his vision of American style.
+
+Article 6:
+A man named as a suspect in the fatal shooting of a Philadelphia, Pennsylvania, police officer last week was captured at a shelter in Miami, Florida, on Tuesday, Philadelphia Police Commissioner Sylvester Johnson said at a news conference.
+
+Article 7:
+A look at some of the more sculpted and stylish cars available for about $20,000 that will hold their looks for a long time and give a little bit of joy to a first-time owner.
+
+Article 8:
+President Bush blasted the Democratic-controlled Congress on Tuesday for having "the worst record in 20 years."
+
+Article 9:
+Sniper Lee Boyd Malvo said in a letter to CNN that he is still "grappling with shame, guilt, remorse and my own healing if that will ever be possible."
+
+Article 10:
+Italy national coach Roberto Donadoni has left Juventus striker David Trezeguet in his squad for next Saturday's crucial Euro 2008 qualifier in Scotland.
+
+Article 11:
+Erik Prince, the chairman and CEO of Blackwater USA, appeared Tuesday before the House Oversight and Government Reform Committee.
+
+Article 12:
+Shakhtar Donetsk midfielder Fernandinho has been handed a six-match European ban by UEFA following his horror tackle on Celtic's Scott Brown last week.
+
+Article 13:
+With the election of the next president a year away, Sen. Hillary Clinton remains the person to beat, a CNN/Opinion Research Corporation poll released Monday suggests.
+
+Article 14:
+Russian President Vladimir Putin said on Tuesday that his country should be allowed to pursue its nuclear program for peaceful purposes, during the first visit to the country by a Kremlin leader since 1943.
+
+Article 15:
+Three French journalists charged in an alleged plot to kidnap Iraqi children for adoption in Europe arrived in Paris on Sunday, hours after French President Nicolas Sarkozy held emergency talks in Chad.
+
+Article 16:
+A sixth U.S. service member died Friday from injuries sustained when a U.S. Army helicopter crashed in northeastern Italy on Thursday, the U.S. military in Europe said.
+
+Article 17:
+Three men have been arrested and charged with murder in the shooting death last week of a University of Memphis football player, Memphis police announced Monday.
+
+Article 18:
+A court has ordered pop singer Britney Spears to give up custody of her children effective Wednesday at noon.
+
+Article 19:
+Former football star O.J. Simpson walked out of jail late Wednesday after posting $250,000 bail.
+
+Article 20:
+The U.S. Air Force is returning its F-15E Strike Eagle jets to service over Iraq and Afghanistan after grounding other F-15s, the Air Force said Wednesday.
